@@ -1,0 +1,5 @@
+#define IDC_QUEUE_BUTTON 1
+#define IDC_HEAP_BUTTON 2
+#define IDC_TREE_BUTTON 3
+#define IDC_INPUT_EDIT 4
+#define IDC_OUTPUT_EDIT 5
